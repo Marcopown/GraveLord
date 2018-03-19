@@ -1,6 +1,5 @@
 Gravelord is a University Project made in Unity3D. It's a rougue like game developed in 1 month. 
-The player has to defeat waves of enemies, each of them provides him HP bubbles and some EXP for Leveling up, 
-  sometimes a LV up blue bubblew can be dropped.
+The player has to defeat waves of enemies, each of them provides him HP bubbles and some EXP for Leveling up, sometimes a LV up blue bubblew can be dropped.
 Level up options consists on HP up, Speed up, Damage up and attack speed up.
 
 Folders contain the code in C#.
