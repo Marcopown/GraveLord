@@ -1,8 +1,19 @@
-Gravelord is a University Project made in Unity3D. It's a rougue like game developed in 1 month. 
-The player has to defeat waves of enemies, each of them provides him HP bubbles and some EXP for Leveling up, sometimes a LV up blue bubblew can be dropped.
+"Gravelord" is a University Project made in Unity3D. It's a rougue like game developed in 1 month (Jun 2017). 
+The player has to defeat waves of enemies, each of them provides him some EXP for Leveling up and can drop HP globes or a LV up.
 Level up options consists on HP up, Speed up, Damage up and attack speed up.
 
-Models were mostly made by me, all animation were made by me.
+Models were mostly made using Blender, all animation were made on Unity.
 
 Folders contains the code in C#.
-The 3 Zip files have the exe built in them.
+The 3 .Zip files have the exe built in them.
+
+----
+
+"Gravelord" è un rougue like game sviluppato in un mese per un progetto universitario (Giu 2017).
+Il giocatore deve sconfiggere le orde di nemici, ognuno dei quali conferisce esperienza per i LV up e può dare globi di vita o interi LV up.
+Le opzioni di Level up sono: Aumento della vita, Aumento della velocità, Aumento del danno o Aumento della velocità di attacco.
+
+La maggior parte dei modelli sono stati fatti tramite l'uso di Blender, le animazioni sono state create interamente su Unity.
+
+Le cartelle contengono i codici in C#.
+I tre file .Zip contengono l'eseguibile.
